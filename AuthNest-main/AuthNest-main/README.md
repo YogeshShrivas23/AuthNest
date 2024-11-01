@@ -40,7 +40,7 @@
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YogeshShrivas23
+    [git clone https://github.com/YogeshShrivas23/AuthNest/tree/main/AuthNest-main/AuthNest-main)
     cd AuthNest
     ```
 
